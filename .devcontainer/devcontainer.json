@@ -1,0 +1,9 @@
+{
+  "name": "caller-argument-test-devcontainer",
+  "image": "ghcr.io/iaingalloway/devcontainers/dotnet:1.0.0-dotnet8.0.100-preview.7.23376.3",
+  "runArgs": [
+    "--name",
+    "caller-argument-test-devcontainer",
+    "--network=host"
+  ]
+}
